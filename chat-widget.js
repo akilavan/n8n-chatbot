@@ -543,7 +543,7 @@
           </button>
         </div>
         <div class="chat-footer">
-          <a href="${config.branding.poweredBy.link}" target="_blank">${config.branding.poweredBy.text}</a>
+          <a href="https://vallinar.com" target="_blank">Powered by Vallunar</a>
         </div>
       </div>
     `;
